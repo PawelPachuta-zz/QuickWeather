@@ -13,11 +13,11 @@ Reading from the command line the location for which data should be downloaded.
 Download data from https://openweathermap.org/.
 Show the weather for the following 3 days.
 
-###TECHNOLOGY
+TECHNOLOGY
 - python 3.7
 - json
 - request module
 - sys module
 
-####LINKS
+LINKS
 www.linkedin.com/in/paweł-pachutatester
